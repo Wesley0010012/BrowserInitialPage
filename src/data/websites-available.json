@@ -1,0 +1,84 @@
+[
+  {
+    "type": "searchengine",
+    "name": "Google",
+    "searchUrl": "https://www.google.com/search?q={query}",
+    "logo": "https://cdn.simpleicons.org/google",
+    "url": "https://www.google.com/"
+  },
+  {
+    "type": "searchengine",
+    "name": "DuckDuckGo",
+    "searchUrl": "https://duckduckgo.com/?q={query}",
+    "logo": "https://cdn.simpleicons.org/duckduckgo",
+    "url": "https://duckduckgo.com/"
+  },
+  {
+    "type": "platformwithsearch",
+    "name": "Trello",
+    "searchUrl": "https://trello.com/search?q={query}",
+    "logo": "https://cdn.simpleicons.org/trello",
+    "url": "https://trello.com/"
+  },
+  {
+    "type": "platformwithsearch",
+    "name": "GitHub",
+    "searchUrl": "https://github.com/search?q={query}",
+    "logo": "https://cdn.simpleicons.org/github",
+    "url": "https://github.com/"
+  },
+  {
+    "type": "platformwithsearch",
+    "name": "YouTube",
+    "searchUrl": "https://www.youtube.com/results?search_query={query}",
+    "logo": "https://cdn.simpleicons.org/youtube",
+    "url": "https://www.youtube.com/"
+  },
+  {
+    "type": "platform",
+    "name": "Discord",
+    "logo": "https://cdn.simpleicons.org/discord",
+    "url": "https://discord.com/"
+  },
+  {
+    "type": "platformwithsearch",
+    "name": "Gmail",
+    "searchUrl": "https://mail.google.com/mail/u/0/#search/{query}",
+    "logo": "https://www.gstatic.com/images/branding/product/1x/gmail_48dp.png",
+    "url": "https://mail.google.com/"
+  },
+  {
+    "type": "platformwithsearch",
+    "name": "Google Maps",
+    "searchUrl": "https://www.google.com/maps/search/{query}",
+    "logo": "https://www.gstatic.com/images/branding/product/1x/maps_48dp.png",
+    "url": "https://www.google.com/maps/"
+  },
+  {
+    "type": "platformwithsearch",
+    "name": "Google Calendar",
+    "searchUrl": "https://calendar.google.com/calendar/u/0/r/search?q={query}",
+    "logo": "https://www.gstatic.com/images/branding/product/1x/calendar_48dp.png",
+    "url": "https://calendar.google.com/"
+  },
+  {
+    "type": "platformwithsearch",
+    "name": "NPM",
+    "searchUrl": "https://www.npmjs.com/search?q={query}",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg",
+    "url": "https://www.npmjs.com/"
+  },
+  {
+    "type": "platformwithsearch",
+    "name": "Packagist",
+    "searchUrl": "https://packagist.org/search/?q={query}",
+    "logo": "https://packagist.org/img/logo-small.png?v=1766518989",
+    "url": "https://packagist.org/"
+  },
+  {
+    "type": "platform",
+    "name": "Bitbucket",
+    "logo": "https://www.atlassian.com/apple-touch-icon.png",
+    "url": "https://bitbucket.org/"
+  }
+]
